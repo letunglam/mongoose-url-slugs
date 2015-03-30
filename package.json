@@ -1,10 +1,10 @@
 {
   "author": {
-    "name": "Talha Asad",
-    "email": "talha@mindblaze.net",
-    "url": "http://mindblaze.net"
+    "name": "Tung Lam Le",
+    "email": "letunglam@gmail.com",
+    "url": "http://letunglam.com"
   },
-  "name": "mongoose-url-slugs",
+  "name": "mongoose-url-slugs-german",
   "description": "Create URL compatiable slugs on mongoose models, ensuring uniqueness.",
   "version": "0.1.2",
   "keywords": [
@@ -15,10 +15,10 @@
     "mongodb url slugs",
     "mongoose"
   ],
-  "homepage": "http://mindblaze.github.io/mongoose-url-slugs",
+  "homepage": "https://github.com/letunglam/mongoose-url-slugs-german",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mindblaze/mongoose-url-slugs.git"
+    "url": "git://github.com/letunglam/mongoose-url-slugs-german.git"
   },
   "main": "index.js",
   "engines": {
